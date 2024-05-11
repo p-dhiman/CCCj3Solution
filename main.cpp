@@ -23,6 +23,7 @@ void findThirdHighestAndCount() {
         
         if (scores.size() < 3) {
             cout << "There are not enough unique scores.\n";
+            
             return;
         }
         
